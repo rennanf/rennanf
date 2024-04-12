@@ -5,7 +5,7 @@
 
 # 👨‍💻 Rennan Fabrício
 
-**`(Desenvolvedor Full stack)`**
+**`(Desenvolvedor Full Stack)`**
 
 Olá!👋 Sou Rennan Fabricio, um desenvolvedor full-stack , tenho 30 anos. Meu trabalho é transformar ideias em código. Adoro criar experiências digitais e colaborar com equipes para fazer projetos incríveis. Estou sempre aprendendo e compartilhando conhecimento na comunidade de tecnologia. Estou ansioso para continuar crescendo como desenvolvedor e fazer a diferença com meu trabalho.
 
@@ -124,7 +124,7 @@ Olá!👋 Sou Rennan Fabricio, um desenvolvedor full-stack , tenho 30 anos. Meu 
 <div style="display: flex; justify-content: space-between;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rennanf&show_icons=true&locale=en&layout=compact" alt="rennanf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rennanf&show_icons=true&locale=en" alt="rennanf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rennanf&show_icons=true&locale=en&count_private=true" alt="rennanf" /></p>
 </div>
 
 
