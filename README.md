@@ -20,7 +20,7 @@ Olá!👋 Sou Rennan Fabricio, um desenvolvedor full-stack , tenho 30 anos. Meu 
 <br/>
 <br/>
 <br/>
-<img align="right" alt="Codando" width="550" src = "https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
+<img align="right" alt="Codando" width="450" src = "https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rennanf&label=Profile%20views&color=0e75b6&style=flat" alt="rennanf" /> </p>
 
