@@ -1,4 +1,7 @@
-![Banner GIF](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<div style="height: 100vh;">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner GIF" style="height: 100%; width: auto;"/>
+</div>
+
 
 # 👨‍💻 Rennan Fabrício
 
@@ -12,7 +15,7 @@ Olá!👋 Sou Rennan Fabricio, um desenvolvedor full-stack , tenho 30 anos. Meu 
 
 - 📫 Se quiser entrar em contato **rennanfabricio22@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fato divertido ** "Eu si divirto" **
 
 <br/>
 <br/>
